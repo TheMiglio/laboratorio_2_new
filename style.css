@@ -1,0 +1,68 @@
+head{
+    font-family: Verdana;
+}
+
+body{
+    font-family: Verdana;
+}
+
+h1 {
+    color: #55dab3;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 2px #1e1e1e;
+}
+
+a:link, a:visited{
+    font-weight: bold;
+    color: #969496;
+    font-size: 14px;
+}
+a:hover, a:active{
+    font-weight: bold;
+    color: #965d24;
+    font-size: 14px;
+}
+
+
+h2 {
+    color: #394d93;
+    font-size: 20px;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+    font-size: 14px;
+}
+
+table{
+    font-size: 14px;
+}
+
+#tabTitle{
+    background-color: #44b6ab;
+    color: #f6f6f6;
+    font-weight: bold;
+}
+
+th{
+    text-align: left;
+    padding-right: 10px;
+    border-bottom: 1px;
+}
+
+tr{
+    padding-bottom: 5px;
+}
+
+td{
+    padding-right: 10px;
+}
+
+footer{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 12px;
+}
